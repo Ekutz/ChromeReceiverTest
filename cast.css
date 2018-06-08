@@ -1,9 +1,9 @@
 .background {
-  background: center no-repeat url('https://raw.githubusercontent.com/Ekutz/ChromeReceiverTest/master/background.png');
+  background: center no-repeat url('background.png');
 }
 
 .logo {
-  background-image: url(https://raw.githubusercontent.com/Ekutz/ChromeReceiverTest/master/logo.png);
+  background-image: url(logo.png);
 }
 
 .progressBar {
@@ -11,10 +11,10 @@
 }
 
 .splash {
-  background-image: url(https://raw.githubusercontent.com/Ekutz/ChromeReceiverTest/master/splash.jpg);
+  background-image: url(splash.jpg);
 }
 
 .watermark {
-  background-image: url("https://raw.githubusercontent.com/Ekutz/ChromeReceiverTest/master/watermark.png");
+  background-image: url("watermark.png");
   background-size: 57px 57px;
 }
