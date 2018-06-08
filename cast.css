@@ -1,9 +1,9 @@
 .background {
-  background: center no-repeat url(background.png);
+  background: center no-repeat url('https://github.com/Ekutz/ChromeReceiverTest/blob/master/background.png?raw=true');
 }
 
 .logo {
-  background-image: url(logo.png);
+  background-image: url(https://github.com/Ekutz/ChromeReceiverTest/blob/master/logo.png?raw=true);
 }
 
 .progressBar {
