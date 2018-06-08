@@ -11,10 +11,10 @@
 }
 
 .splash {
-  background-image: url(splash.jpg);
+  background-image: url(https://github.com/Ekutz/ChromeReceiverTest/blob/master/splash.jpg?raw=true);
 }
 
 .watermark {
-  background-image: url(watermark.png);
+  background-image: url("https://github.com/Ekutz/ChromeReceiverTest/blob/master/watermark.png?raw=true");
   background-size: 57px 57px;
 }
